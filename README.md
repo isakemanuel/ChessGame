@@ -17,3 +17,4 @@ This application has implemented basic pieces movement.
 - add a timer
 
 March 30, 2017
+by Jason
